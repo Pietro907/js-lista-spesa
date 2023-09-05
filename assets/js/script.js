@@ -27,3 +27,21 @@ while (index < lista.length) {
 }
 
 
+
+
+/* const pari = 6;
+const black = 5;
+const pippo = 9;
+const lista = ['mela', 'banana', 'susina', 'melone'];
+const doc = document.querySelector('.listener');
+console.log(lista[0]);
+doc.innerHTML = lista[0];
+
+
+
+function moltiplicatore(numbPari, numbdispari, disney) {
+    const numbMoltiplicato = numbPari * numbdispari + disney;
+    return numbMoltiplicato;
+}
+doc.innerHTML += ' ' + moltiplicatore(pari, black, pippo)
+console.log(moltiplicatore(pari, black, pippo)); */  
